@@ -8,3 +8,9 @@
     text-align: center;
     color: blueviolet;
 }
+button {
+    padding: 10px 20px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+}
